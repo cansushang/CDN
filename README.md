@@ -9,3 +9,5 @@
 版本号不是必需的，是为了区分新旧资源，如果不使用版本号，将会直接引用最新资源
 ### 日志
 - 2020.4.25：加入cansushang.github.io\themes\Butterfly\source目录下的css和js文件夹，目前只引用了js文件
+
+- 哈啊哈
